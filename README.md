@@ -1,1 +1,2 @@
 # This is my login repo
+<p>login.py contains the python code for login and resiter system. When we choose to register the program writes the filled data in the login.txt using json.dumps() which transforms dictionary into string format and while logging the system reads data from txt file and convert it back to dictionary using json.loads() and checks if the user is in the system or not.</p>
